@@ -1,0 +1,11 @@
+
+# 1. Найти сумму и произведение цифр трехзначного числа, которое вводит пользователь.
+
+numb = input('Введите трехзначное число  ')
+res = sum(map(int, numb))
+print(res)
+mult = 1
+for i in numb:
+    i = int(i)
+    mult = mult * i
+print(mult)
