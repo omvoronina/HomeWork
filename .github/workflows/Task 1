@@ -9,3 +9,6 @@ for i in numb:
     i = int(i)
     mult = mult * i
 print(mult)
+
+
+https://user-images.githubusercontent.com/85246978/172023510-5d0c146a-8756-4372-a2e0-e7dbed23c6de.jpg
