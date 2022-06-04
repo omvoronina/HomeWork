@@ -1,3 +1,6 @@
 # 6. Пользователь вводит номер буквы в алфавите. Определить, какая это буква.
 import random
 print(chr(int(input('Введите номер буквы  '))))
+
+
+https://user-images.githubusercontent.com/85246978/172023695-8f2e2aed-07e4-4b04-8992-cc5832eda270.jpg
