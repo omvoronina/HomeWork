@@ -17,3 +17,6 @@ if check > max(a, b, c):
         print('Треугольник разносторонний')
 else:
     print('Такого треугольника не существует')
+
+
+https://user-images.githubusercontent.com/85246978/172023698-449bc86e-5324-4be8-a112-a631859bd57e.jpg
