@@ -9,3 +9,6 @@ place_2 = ord(let_2) - 96
 interval = abs(place_2 - place_1) - 1
 print(f" Буква {let_1} стоит на {place_1} месте алфавита, буква {let_2} стоит на {place_2} месте алфавита, "
       f" Расстояние между буквами {let_1} и {let_2} равно {interval}" )
+
+
+https://user-images.githubusercontent.com/85246978/172023676-321dc3c5-55a5-4262-ad42-1fadc2d0eb6b.jpg
