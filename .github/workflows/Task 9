@@ -3,3 +3,6 @@
 num_1, num_2, num_3 = map(int, (input('Через пробел введите три числа  ')).split(' '))
 res = num_1 + num_2 + num_3 - max(num_1, num_2, num_3) - min(num_1, num_2, num_3)
 print(res)
+
+
+https://user-images.githubusercontent.com/85246978/172023717-c7b4f7b0-de49-42fa-be74-f12ed5394599.jpg
