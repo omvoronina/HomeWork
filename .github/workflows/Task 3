@@ -6,3 +6,6 @@ k = (y_2 - y_1) / (x_2- x_1)
 b = y_1 - (k * x_1)
 
 print(f" y = {round(k, 2)}x + {round(b, 2)}")
+
+
+https://user-images.githubusercontent.com/85246978/172023652-6a163273-1c4d-4c56-9891-a52cd8579979.jpg
