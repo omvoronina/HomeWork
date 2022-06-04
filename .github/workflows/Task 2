@@ -10,3 +10,6 @@ res_or = x | y  # 0111
 res_right = x >> 2 # 0001
 res_left = x << 2  # 10100
 print(res_and, res_or, res_right, res_left)
+
+
+https://user-images.githubusercontent.com/85246978/172023644-8e3fa188-e26d-4a7f-ba9a-e4e03978785f.jpg
