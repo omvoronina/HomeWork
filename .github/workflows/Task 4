@@ -16,3 +16,6 @@ res_whole_numb = random.randint(st_numb, fin_numb)
 res_numb = random.uniform(st_numb, fin_numb)
 res_whole_symb = random.randint(st_symb, fin_symb)
 print(res_whole_numb, '|', res_numb, '|', chr(res_whole_symb))
+
+
+https://user-images.githubusercontent.com/85246978/172023670-ce078b3b-f752-488d-be9a-099faecd0845.jpg
