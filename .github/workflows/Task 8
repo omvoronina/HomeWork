@@ -9,3 +9,6 @@ if year in sequence and year % 100 == 0:
         print('Этот год не високосный')
 else:
     print('Этот год не високосный')
+
+
+https://user-images.githubusercontent.com/85246978/172023711-5c21cfa8-bcda-43d7-add1-cc707dae77b4.jpg
